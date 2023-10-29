@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864231514300",
+    "project_id": "bwa-cozy-3c2c0",
+    "storage_bucket": "bwa-cozy-3c2c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864231514300:android:a0e61e688bca152b0a30b9",
+        "android_client_info": {
+          "package_name": "com.example.find_cozy_house"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864231514300-lpg48e5ekciq591tli6nj1snaklhsp4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx4xts2rnys7aIkepKvRwMwqDfCSHb-X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864231514300-lpg48e5ekciq591tli6nj1snaklhsp4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
